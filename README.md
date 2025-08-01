@@ -1,13 +1,13 @@
 ## 🎶Console.log("Hello There, I'm Keshav👋")🐍
 <hr>
 <h2>Who Am I ? </h2>
-<ul>
-  <li><p>I am Keshav Ramphal.</p></li>
-  <li><p>I am currently a student at <em><strong>@Richfield Graduate Institute of Technology (Umhlanga)</strong></em></p></li>
-  <li><p>Born in South Africa, Kwazulu-Natal, Durban</p></li>
-  <li><p>I <em><strong>LOVE</strong></em> technology and want to know everything about it, no matter the category </p></li>
-  <li><p>I also like video games, worldwide affaris, and anything in general </p></li>
-  <li><p>I will become the best of the best</p></li>
+<ul><!--OH a Fellow dev dont worry ik that u can use sections etc-->
+  <li>I am Keshav Ramphal.</li>
+  <li>I am currently a student at <strong>@Richfield Graduate Institute of Technology (Umhlanga)</strong></li>
+  <li>Born in South Africa, Kwazulu-Natal, Durban</li>
+  <li>I <em><strong>LOVE</strong></em> technology and want to know everything about it, no matter the category </li>
+  <li>I also like video games, worldwide affaris, and anything in general </li>
+  <li>I will become the best of the best</li>
 </ul>
 <hr>
 <h2>Languages and Coding Platforms i have experience in? </h2>
@@ -25,8 +25,11 @@
   <ul>
     <li>Python Essentials 1 Issued by Cisco</li>
     <li>JavaScript Essentials 1 Issued by Cisco</li>
+    <li>Introduction to Modern AI Issued by Cisco</li>
+    <li>HTML Essentials Issued by Cisco</li>
+    <li>Business Analysis & Process Management Issued by Coursera Project Network</li>
   </ul>
-  <p>Please check out my<em><strong>Credly Account and Linkedin for proof(Links in Profile)</strong></em></p>
+  <p>Please check out my <em><strong>Credly, Linkedin and Coursera Accounts for proof(Links in Profile)</strong></em></p>
 <hr>
 <h2>Future Plans?</h2>
 <ul>
